@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Add-User/static/css/main.f377c1df.css",
+    "main.js": "/Add-User/static/js/main.eadb20fd.js",
+    "index.html": "/Add-User/index.html",
+    "main.f377c1df.css.map": "/Add-User/static/css/main.f377c1df.css.map",
+    "main.eadb20fd.js.map": "/Add-User/static/js/main.eadb20fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f377c1df.css",
+    "static/js/main.eadb20fd.js"
+  ]
+}
